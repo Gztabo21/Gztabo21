@@ -10,7 +10,8 @@ Con mucha motivación con hambre al conocimiento, en constante aprendizaje.
 **Mis pasatiempo**
 
 1. Escuchar musica, lofi
-2. Leer  
+2. Leer 
+3. Ajedrez 
 
 ## Redes Sociales
 
