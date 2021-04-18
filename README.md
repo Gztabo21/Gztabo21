@@ -1,21 +1,15 @@
-### Hola👋 Soy  
-# Gustavo Cacharuco 
-![ve](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-venezuela_1f1fb-1f1ea.png)
+# Gustavo Cacharuco 💻
 
-
-Soy Venezolano, ingeniero Informatico y desarrollador Web.
+Soy desarrollador Web, he trabajado en el area del back-end y el Front-end.
 Con mucha motivación con hambre al conocimiento, en constante aprendizaje.
 
-
 **Mis pasatiempo**
-
-1. Escuchar musica, lofi
+1. Escuchar musica, tengo una 🎸
 2. Leer 
-3. Ajedrez 
+3. Ajedrez ♟️
 
 ## Redes Sociales
-
-
+twitter -@gz_cacharuco-
 ## Los Lenguajes que utilizado para desarrollar son los Siguientes:
   * Javascript
   * Typescript
