@@ -1,5 +1,8 @@
  
-<img title="logo" src="https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/e35/92340054_555796478690135_2339811426230867103_n.jpg?tp=1&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Ncq1ZbnKs88AX9_Blhd&edm=AABBvjUBAAAA&ccb=7-4&oh=ae07e2fc61f6d834ceca94d9c538d613&oe=60B29B00&_nc_sid=83d603" width="48" style="border-radius:36px;">
+<img title="logo" src="https://avatars.githubusercontent.com/u/22778784?s=96&v=4" width="100" style="border-radius:36px;">
+
+[![Twitter: Gz_cacharuco](https://img.shields.io/twitter/follow/Gz_cacharuco?style=social)](https://twitter.com/Gz_cacharuco)
+[![GitHub Gztabo21](https://img.shields.io/github/followers/Gztabo21?label=follow&style=social)](https://github.com/Gztabo21)
 
 # Gustavo Cacharuco 💻 
 > Ingeniero en Informatica 👨‍💻
@@ -15,6 +18,7 @@
 |<img src="https://abs.twimg.com/favicons/twitter.ico"  width="28" />|<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"  width="28" />|<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="28"/>|
 |:----|:----:|----:|
 |[twitter](https://twitter.com/Gz_cacharuco)|[linkedin](https://twitter.com/Gz_cacharuco)|[mail](mailto:Gustavocacharuco@gmail.com)
+
 ## Skills tecnicos 💻
 <hr style="background:#f5cd0f" />
 
