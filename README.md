@@ -1,10 +1,6 @@
- 
-<img title="logo" src="https://avatars.githubusercontent.com/u/22778784?s=96&v=4" width="100" style="border-radius:36px;">
-
+# Gustavo Cacharuco 💻 
 [![Twitter: Gz_cacharuco](https://img.shields.io/twitter/follow/Gz_cacharuco?style=social)](https://twitter.com/Gz_cacharuco)
 [![GitHub Gztabo21](https://img.shields.io/github/followers/Gztabo21?label=follow&style=social)](https://github.com/Gztabo21)
-
-# Gustavo Cacharuco 💻 
 > Ingeniero en Informatica 👨‍💻
 >> Venezolano 🇻🇪
 
