@@ -1,8 +1,7 @@
 # Gustavo Cacharuco 💻 
 [![Twitter: Gz_cacharuco](https://img.shields.io/twitter/follow/Gz_cacharuco?style=social)](https://twitter.com/Gz_cacharuco)
 [![GitHub Gztabo21](https://img.shields.io/github/followers/Gztabo21?label=follow&style=social)](https://github.com/Gztabo21)
-> Ingeniero en Informatica 👨‍💻
->> Venezolano 🇻🇪
+> Ingeniero en Informatica 👨‍💻,Venezolano 🇻🇪
 
 <hr style="background:#f5cd0f" />
         Soy desarrolladorWeb, he trabajado como programdor en lado del back-end y el Front-end, he lidiado con los dos mundos y la diversidades de problemas que se puedan presentar y el secreto esta en no rendirse analizar tu problema paso a paso y estoy totalmente seguro que se solucionara, amante de lo bueno, curioso en mis tiempo gusta leer las novedades en el mundo tecnologico,  ver peliculas y serie, deportista en el ajedrez si quieres retarme a una partida aqui estoy venga no sera facil ganarme. Si de la musica se trata tengo una guitarra aunque no soy muy profesional me encanta tocarla. Agradecido totalmente con Dios por los Talentos que me ha dado y mis maravillosos padres que tengo me formado con humilda y con muchos valores.
