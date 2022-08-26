@@ -17,10 +17,7 @@
 ## Skills tecnicos 💻
 <hr style="background:#f5cd0f" />
 
-- Javascript
-- Typescript
-- Python
-- Php
+| Javascript | Typescript | Python | Php
 
 ### Framework y librerias 📚
 <hr style="background:#f5cd0f" />
