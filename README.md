@@ -36,10 +36,8 @@
 ## Proyectos en los que he trabajado 🛠️
 <hr style="background:#f5cd0f" />
 
-    Sistema de PDA
-    Ticket
-    facturacion
-    todo-list
+    Sistema de Presupuesto.
+    facturacion y ventas
     aplicaciones en Ionic (administrativo)
     odoo (desarrollos de modulos, reportes y otros)
 
