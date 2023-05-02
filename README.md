@@ -1,45 +1,26 @@
-# Gustavo Cacharuco 💻 
+# Gustavo Cacharuco 👨‍💻🇻🇪 - Ingeniero en Informatica💻 
 [![Twitter: Gz_cacharuco](https://img.shields.io/twitter/follow/Gz_cacharuco?style=social)](https://twitter.com/Gz_cacharuco)
 [![GitHub Gztabo21](https://img.shields.io/github/followers/Gztabo21?label=follow&style=social)](https://github.com/Gztabo21)
-> Ingeniero en Informatica 👨‍💻,Venezolano 🇻🇪
+>Soy **desarrollador fullstack**, he lidiado con los dos mundos(front-end & back-end), he particidado en todos los proceso de desarrollo desde el levantamiento de informacion hasta su despliegue. esto me ayudado a tener una mejor vision y un crecer profesional.
 
-<hr style="background:#f5cd0f" />
-        Soy desarrolladorWeb, he trabajado como programdor en lado del back-end y el Front-end, he lidiado con los dos mundos y la diversidades de problemas que se puedan presentar y el secreto esta en no rendirse analizar tu problema paso a paso y estoy totalmente seguro que se solucionara, amante de lo bueno, curioso en mis tiempo gusta leer las novedades en el mundo tecnologico,  ver peliculas y serie, deportista en el ajedrez si quieres retarme a una partida aqui estoy venga no sera facil ganarme. Si de la musica se trata tengo una guitarra aunque no soy muy profesional me encanta tocarla. Agradecido totalmente con Dios por los Talentos que me ha dado y mis maravillosos padres que tengo me formado con humilda y con muchos valores.
-
-## Redes Sociales 📫
-
+## Skills 💻
 <hr style="background:#f5cd0f" />
 
-|<img src="https://abs.twimg.com/favicons/twitter.ico"  width="28" />|<img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"  width="28" />|<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="28"/>|
-|:----|:----:|----:|
-|[twitter](https://twitter.com/Gz_cacharuco)|[linkedin](https://twitter.com/Gz_cacharuco)|[mail](mailto:Gustavocacharuco@gmail.com)
+| 1-**Javascript** | 2.-**Typescript** | 3.-**Python** | 4.-**Php**
 
-## Skills tecnicos 💻
+## Framework y librerias 📚
 <hr style="background:#f5cd0f" />
 
-| Javascript | Typescript | Python | Php
+|.....|....|
+|----|----|
+|Angular | nextjs |
+|React|rxjs|
+|node y npm|redux|
+|Express|Django|
+|typeorm|Flask|
+|Ionic||
 
-### Framework y librerias 📚
-<hr style="background:#f5cd0f" />
 
-- Angular
-- React
-- node y npm
-- Express
-- typeorm
-- Ionic
-- nextjs
-- rxjs
-- redux
-- Django
-- Flask
-## Proyectos en los que he trabajado 🛠️
-<hr style="background:#f5cd0f" />
-
-    Sistema de Presupuesto.
-    facturacion y ventas
-    aplicaciones en Ionic (administrativo)
-    odoo (desarrollos de modulos, reportes y otros)
 
 <!--
 **Gztabo21/Gztabo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
